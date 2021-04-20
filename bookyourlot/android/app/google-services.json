@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139251007775",
+    "project_id": "bookyourlot-9",
+    "storage_bucket": "bookyourlot-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139251007775:android:f2c6836e3cad6a06f1f02a",
+        "android_client_info": {
+          "package_name": "com.hariharen.bookyourlot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139251007775-152rte9csbd41n8i6lecjbg1cjbcvp53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hariharen.bookyourlot",
+            "certificate_hash": "4c5e7ca0c355de6a6e7ce93bf0c47b380f7d09cc"
+          }
+        },
+        {
+          "client_id": "139251007775-laado0s4v83d35t8ii1kcu4s67d3kvki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGhAbwTYNiTRsokHut-rPfX4c50geEkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139251007775-laado0s4v83d35t8ii1kcu4s67d3kvki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
